@@ -7,6 +7,7 @@ public class Main {
 
 
         System.out.println("Hello IntelliJ");
+        System.out.println("Hello IntelliJ");
 
 
 
